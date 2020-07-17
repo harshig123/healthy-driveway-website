@@ -25,7 +25,7 @@ const Footer = () => (
             <a href="https://www.instagram.com/healthydriveway/">Instagram/a>
           </li>
           <li>
-            <a href="https://twitter.com/HuntaroSan">Twitter</a>
+            <a href="https://twitter.com/HuntaroSan">Facebook</a>
           </li>
           <li>
             <a href="https://github.com/codebushi/gatsby-starter-lander">GitHub</a>

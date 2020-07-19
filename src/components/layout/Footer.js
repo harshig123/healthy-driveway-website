@@ -22,13 +22,13 @@ const Footer = () => (
         <h2 className="text-lg font-semibold">Social Media</h2>
         <ul className="mt-4 leading-loose">
           <li>
-            <a href="https://www.instagram.com/healthydriveway/">Instagram/a>
+            <a href="https://dev.to/changoman">Dev.to</a>
           </li>
           <li>
-            <a href="https://twitter.com/HuntaroSan">Facebook</a>
+            <a href="https://twitter.com/HuntaroSan">Twitter</a>
           </li>
           <li>
-            <a href="https://github.com/codebushi/gatsby-starter-lander">Email</a>
+            <a href="https://github.com/codebushi/gatsby-starter-lander">GitHub</a>
           </li>
         </ul>
       </div>

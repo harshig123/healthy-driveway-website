@@ -2,7 +2,7 @@ export default [
   {
     title: 'Increased our Property Value!',
     content:
-      'Me and my family are trying to put our house on the market, so we needed our house to look as polished as possible. Healthy driveway workers pressure washed our driveway to perfection. Our driveway used to have skid marks, weeds,cracks and oil spots, but now, it is cleaner than ever. By doing this, we were able to increase our property value! Our buyer offered a price higher than we expected because our driveway looked beautiful.',
+      'Me and my family are trying to put our house on the market, so we needed our house to look as polished as possible. Healthy driveway workers pressure washed our driveway to perfection. Our driveway used to have skid marks, weeds,cracks and oil spots, but now, it is cleaner than ever! By doing this, we were able to increase our property value! Our buyer offered a price higher than we expected because our driveway looked beautiful.',
     customerName: 'Aruna Ganipineni',
     customerTitle: 'Happy Healthy Driveway Customer',
     customerImage: 'https://placeimg.com/150/150/people'

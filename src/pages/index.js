@@ -37,28 +37,25 @@ export default () => (
         <div className="flex flex-col sm:flex-row sm:-mx-3 mt-12">
           <div className="flex-1 px-3">
             <Card className="mb-8">
-              <p className="font-semibold text-xl">Service One</p>
+              <p className="font-semibold text-xl">Gets rid of Harmful Mold and Dust</p>
               <p className="mt-4">
-                An enim nullam tempor gravida donec enim ipsum blandit porta justo integer odio
-                velna vitae auctor integer.
+              All the dirt, grime, and mildew that accumulates on your home’s exterior surfaces can be dangerous. Removing them yearly with a pressure washing helps keep you and your pets from getting sick. Springtime, when allergens run high, is the perfect time to include your home’s exterior into your spring cleaning. Power washing the exterior can reduce the amount of allergens in and around your home, and reduce the time your family spends coughing, sneezing and with watery eyes. Our  solution removes allergens, kills algae and fungus, and protects against harmful bacteria.
               </p>
             </Card>
           </div>
           <div className="flex-1 px-3">
             <Card className="mb-8">
-              <p className="font-semibold text-xl">Service Two</p>
+              <p className="font-semibold text-xl">Increases Property Value of your House</p>
               <p className="mt-4">
-                An enim nullam tempor gravida donec enim ipsum blandit porta justo integer odio
-                velna vitae auctor integer.
+              If you’re looking to sell, power washing could be the difference between making a sale and not. Exteriors degrade, discolor, and oxide as time passes. Because of this, your property can lose value. Power washing helps a fresh looking paint job take, making it free of peeling and chipping and it helps your home look new on its own. Obviously, a good-looking house is much easier to rent or sell.
               </p>
             </Card>
           </div>
           <div className="flex-1 px-3">
             <Card className="mb-8">
-              <p className="font-semibold text-xl">Service Three</p>
+              <p className="font-semibold text-xl">Reduces Damage</p>
               <p className="mt-4">
-                An enim nullam tempor gravida donec enim ipsum blandit porta justo integer odio
-                velna vitae auctor integer.
+              Your home’s exterior is exposed to harsh elements all the time; that’s it’s job! Natural conditions like sun, wind, dirt, ultraviolet rays, insects, birds –  not to mention things like acid rain, smoke, pollutants and car exhaust – constantly take a beating on your home and contribute to its soiling, discoloration, and damage.
               </p>
             </Card>
           </div>
